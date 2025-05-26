@@ -19,9 +19,8 @@ A simple and elegant To Do List web app built with **HTML**, **CSS**, and **Vani
 ---
 
 ## 📁 Project Structure
-todo-app/
-├── index.html # Main HTML file with embedded CSS and JavaScript
-├── README.md # Project documentation
+index.html # Main HTML file with embedded CSS and JavaScript
+README.md # Project documentation
 
 ---
 
